@@ -1,0 +1,22 @@
+{
+	"projectName": "techie",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "techie CSS",
+		"file": "techie.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "techie JS",
+		"file": "techie.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
